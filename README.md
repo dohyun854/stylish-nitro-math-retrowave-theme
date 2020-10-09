@@ -1,4 +1,4 @@
-<Nitro Math RetroWave Theme>
+### Nitro Math RetroWave Theme
 
 This is the FIRST Nitro Math theme.
 (I referenced Nate-Dogg's RetroWave theme)
